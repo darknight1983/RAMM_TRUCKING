@@ -1,0 +1,32 @@
+{
+  "name": "ramm",
+  "version": "1.0.0",
+  "description": "A web application for Ramm Trucking",
+  "main": "index.js",
+  "scripts": {
+    "build": "next build",
+    "start": "next start",
+    "dev": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darknight1983/RAMM_TRUCKING.git"
+  },
+  "author": "Jacolby Green",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darknight1983/RAMM_TRUCKING/issues"
+  },
+  "homepage": "https://github.com/darknight1983/RAMM_TRUCKING#readme",
+  "dependencies": {
+    "@material-ui/core": "^3.9.2",
+    "next": "^8.0.3",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "react-jss": "^8.6.1"
+  },
+  "devDependencies": {
+
+  }
+}
